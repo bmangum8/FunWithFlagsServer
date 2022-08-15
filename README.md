@@ -11,8 +11,7 @@ npm i json-server
 
 2. Client Side Repo
 
-link to fun with flags repository
-
+https://github.com/bmangum8/FunWithFlags
 
 ## Demo
 1. Clone this repository and change to the directory in the terminal.
