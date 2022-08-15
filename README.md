@@ -18,7 +18,7 @@ link to fun with flags repository
 1. Clone this repository and change to the directory in the terminal.
 
 ```sh
-git clone git@github.com:bmangum8/FunWithFlags.git
+git clone git@github.com:bmangum8/FunWithFlagsServer.git
 ```
 
 2. Run the server.
