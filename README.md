@@ -11,7 +11,9 @@ npm i json-server
 
 2. Client Side Repo
 
-https://github.com/bmangum8/FunWithFlags
+<a href="https://github.com/bmangum8/FunWithFlags" target="_blank"><img src="https://img.shields.io/badge/Click_here%20-%236ae689.svg?&style=for-the-badge&&logoColor=white" alt="Fun With Flag Repo" style="height: auto !important; width: auto !important;" /></a>
+
+
 
 ## Demo
 1. Clone this repository and change to the directory in the terminal.
